@@ -1,3 +1,4 @@
+console.log("aaaaa");
 var url = "https://github.com/miguel-moya/Quotes/blob/master/img/backgrounds",
 var quotes = [
         {
