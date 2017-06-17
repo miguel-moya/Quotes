@@ -1,9 +1,9 @@
-var url_img = "https://github.com/miguel-moya/Quotes/blob/master/img/backgrounds",
+var url_img = "https://github.com/miguel-moya/Quotes/blob/master/img/backgrounds/";
 var quotes = [
         {
             text: "“eExisten tres posibles respuestas ante un diseño: 'Sí', 'No' y '¡Wow!'. Hay que aspirar a Wow.”",
 			author: "Milton Glaser",
-			img: "img/backgrounds/milton_glaser.jpg",
+			img: url_img + "milton_glaser.jpg",
 		},
 		{
 			text: "“eEl diseño es el embajador silencioso de tu marca.”",
