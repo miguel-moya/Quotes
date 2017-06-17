@@ -1,4 +1,4 @@
-var url_img = "https://github.com/miguel-moya/Quotes/blob/master/img/backgrounds/";
+var url_img = "trabajarlafelicidad.com/wp-content/uploads/test/";
 var quotes = [
         {
             text: "“eExisten tres posibles respuestas ante un diseño: 'Sí', 'No' y '¡Wow!'. Hay que aspirar a Wow.”",
