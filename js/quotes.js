@@ -11,7 +11,7 @@ var quotes = [
 			img: url_img + "paul_rand.jpg",
 		},
 		{
-			text: "“eUn buen diseño puede soportar la moda de 10 años.”",
+			text: "“2eUn buen diseño puede soportar la moda de 10 años.”",
 			author: "Yves Saint Laurent",
 			img: url_img + "yves_saint_laurent.jpg",
 		},
