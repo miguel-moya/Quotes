@@ -15,10 +15,15 @@ var quotes = [
 			author: "Yves Saint Laurent",
 			img: url_img + "yves_saint_laurent.jpg",
 		},
-        {
+        	{
 			text: "“Si no es una marca es una mercancía.”",
 			author: "Philip Kotler",
 			img: url_img + "philip_kotler.jpg",
+		},
+		{
+			text: "“Una marca no es un producto, es la fuente del producto, su significado y su dirección”",
+			author: "Jean-Nöel Kapferer",
+			img: url_img + "jn_kapferer.jpg",
 		}
     ];
 var quote = quotes[Math.floor(Math.random() * quotes.length)];
