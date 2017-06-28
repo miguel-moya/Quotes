@@ -24,6 +24,11 @@ var quotes = [
 			text: "“Una marca no es un producto, es la fuente del producto, su significado y su dirección”",
 			author: "Jean-Nöel Kapferer",
 			img: url_img + "jn_kapferer.jpg",
+		},
+		{
+			text: "“Marca no es igual a la identidad, la identidad es el resultado de una marca eficaz.”",
+			author: "Erick Straghalis",
+			img: url_img + "erick_straghalis.jpg",
 		}
     ];
 var quote = quotes[Math.floor(Math.random() * quotes.length)];
