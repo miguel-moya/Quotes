@@ -29,6 +29,11 @@ var quotes = [
 			text: "“Marca no es igual a la identidad, la identidad es el resultado de una marca eficaz.”",
 			author: "Erick Straghalis",
 			img: url_img + "erick_straghalis.jpg",
+		},
+		{
+			text: "“Una marca es la reacción emocional ante el nombre de una empresa, institución o persona. Lo que tú sientes cuando la escuchas.”",
+			author: "Risto Mejide",
+			img: url_img + "risto_mejide.jpg",
 		}
     ];
 var quote = quotes[Math.floor(Math.random() * quotes.length)];
